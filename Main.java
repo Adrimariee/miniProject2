@@ -5,6 +5,8 @@ class Main {
     
     boolean snowing= true;
     boolean hailing= false;
-          
+     if (snowing)
+      if (hailing)     
+              System.out.println("Do you wanna build a snowman")
   }
 }
