@@ -7,6 +7,8 @@ class Main {
     boolean hailing= false;
      if (snowing)
       if (hailing)     
-              System.out.println("Do you wanna build a snowman")
+              System.out.println("Do you wanna build a snowman");
+      else
+            
   }
 }
